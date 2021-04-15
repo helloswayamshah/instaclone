@@ -1,0 +1,4 @@
+#Wed Mar 31 16:24:19 IST 2021
+base.0=/home/swayam/Projects/instaclone/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
